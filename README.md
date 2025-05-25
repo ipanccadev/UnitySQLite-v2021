@@ -15,7 +15,7 @@ Este proyecto es un ejemplo funcional de cómo integrar una base de datos SQLite
 1. **Clona este repositorio**  
 
 2. **Abre el proyecto en Unity**  
-   Compatible con Unity 2019.4 o superior.
+   Compatible con Unity 20213.45 o superior.
 
 3. **Instala la librería SQLite**  
    Descarga y agrega los archivos de [`unity-sqlite-net`](https://github.com/gilzoide/unity-sqlite-net) a la carpeta `Assets/Plugins/` de tu proyecto.
