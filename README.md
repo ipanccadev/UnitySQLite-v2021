@@ -25,11 +25,12 @@ Este proyecto es un ejemplo funcional de cómo integrar una base de datos SQLite
    - Agrega el prefab de usuario y los scripts de UI según el ejemplo.
 
 ## Estructura de Carpetas
+```
 Assets/ 
 ├── Scripts/ 
 │   ├── Authsql.cs 
 │   ├── DBsql.cs 
-|	├── UsuarioDTO.cs 
+|	 ├── UsuarioDTO.cs 
 │   ├── UsuarioItemUI.cs
 │   └── UsuarioUIManager.cs 
 ├── Prefabs/ 
@@ -38,6 +39,7 @@ Assets/
 │   └── SampleScene.unity 
 └── Plugins/ 
 └── (archivos de unity-sqlite-net)
+```
 
 
 ## Uso
@@ -58,17 +60,7 @@ Assets/
 
 ### Formulario y listado de usuarios
 
-![Formulario y listado](Screenshots/formulario-listado.png)
-
-### Edición de usuario
-
-![Edición de usuario](Screenshots/editar-usuario.png)
-
-### Eliminación de usuario
-
-![Eliminación de usuario](Screenshots/eliminar-usuario.png)
-
-> **Nota:** Guarda tus capturas de pantalla en la carpeta `Screenshots/` y actualiza las rutas en este README.
+![Formulario y listado](Screenshots/Screenshot.png)
 
 ## Créditos
 
